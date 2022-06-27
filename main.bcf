@@ -2344,61 +2344,6 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">bibliography.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="0" nocite="1">*</bcf:citekey>
-    <bcf:citekey order="1">Beisert_2011</bcf:citekey>
-    <bcf:citekey order="2">Beisert_2011</bcf:citekey>
-    <bcf:citekey order="3">johnson_1997</bcf:citekey>
-    <bcf:citekey order="3">johnson_2002</bcf:citekey>
-    <bcf:citekey order="4">vafa1998</bcf:citekey>
-    <bcf:citekey order="5">vafa1998</bcf:citekey>
-    <bcf:citekey order="6">vafa1998</bcf:citekey>
-    <bcf:citekey order="7">vafa1998</bcf:citekey>
-    <bcf:citekey order="8">He:2018gvd</bcf:citekey>
-    <bcf:citekey order="9">vafa1998</bcf:citekey>
-    <bcf:citekey order="9">https://doi.org/10.48550/arxiv.hep-th/9706110</bcf:citekey>
-    <bcf:citekey order="10">Hanany:1999sp</bcf:citekey>
-    <bcf:citekey order="11">Hanany_1999</bcf:citekey>
-    <bcf:citekey order="12">albertssonthesis</bcf:citekey>
-    <bcf:citekey order="13">Feng_2001</bcf:citekey>
-    <bcf:citekey order="14">he2004lectures</bcf:citekey>
-    <bcf:citekey order="15">he2004lectures</bcf:citekey>
-    <bcf:citekey order="16">Kronheimer1990</bcf:citekey>
-    <bcf:citekey order="17">Hanany:1999sp</bcf:citekey>
-    <bcf:citekey order="18">DbranespartI</bcf:citekey>
-    <bcf:citekey order="19">DbranespartII</bcf:citekey>
-    <bcf:citekey order="20">notesDbranes</bcf:citekey>
-    <bcf:citekey order="21">he2004lectures</bcf:citekey>
-    <bcf:citekey order="22">masterHe</bcf:citekey>
-    <bcf:citekey order="23">douglas1996dbranes</bcf:citekey>
-    <bcf:citekey order="24">PhysRevD.55.6382</bcf:citekey>
-    <bcf:citekey order="25">Hanany_1999</bcf:citekey>
-    <bcf:citekey order="26">Hanany:1999sp</bcf:citekey>
-    <bcf:citekey order="27">vafa1998</bcf:citekey>
-    <bcf:citekey order="28">silervstein1998</bcf:citekey>
-    <bcf:citekey order="29">brion</bcf:citekey>
-    <bcf:citekey order="30">kirillov2016quiver</bcf:citekey>
-    <bcf:citekey order="31">cox2011toric</bcf:citekey>
-    <bcf:citekey order="32">torigeomandCY</bcf:citekey>
-    <bcf:citekey order="33">fulton1993introduction</bcf:citekey>
-    <bcf:citekey order="34">oda1988convex</bcf:citekey>
-    <bcf:citekey order="35">FA1</bcf:citekey>
-    <bcf:citekey order="36">FA2</bcf:citekey>
-    <bcf:citekey order="37">FA3</bcf:citekey>
-    <bcf:citekey order="38">FA4</bcf:citekey>
-    <bcf:citekey order="39">FA5</bcf:citekey>
-    <bcf:citekey order="40">FA6</bcf:citekey>
-    <bcf:citekey order="41">FA7</bcf:citekey>
-    <bcf:citekey order="42">FA8</bcf:citekey>
-    <bcf:citekey order="43">Argurio_20081</bcf:citekey>
-    <bcf:citekey order="44">Argurio_20082</bcf:citekey>
-    <bcf:citekey order="45">Feng_2001</bcf:citekey>
-    <bcf:citekey order="46">https://doi.org/10.48550/arxiv.hep-th/9611137</bcf:citekey>
-    <bcf:citekey order="47">Elitzur_1997</bcf:citekey>
-    <bcf:citekey order="48">1997</bcf:citekey>
-    <bcf:citekey order="49">https://doi.org/10.48550/arxiv.hep-th/9706110</bcf:citekey>
-    <bcf:citekey order="50">Katz:1996xe</bcf:citekey>
-    <bcf:citekey order="51">Katz:1996fh</bcf:citekey>
-    <bcf:citekey order="52">Hanany:1999sp</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

@@ -1,9 +1,15 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.6.7)  27 JUN 2022 20:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.6.7)  27 JUN 2022 21:10
 entering extended mode
-**"/home/louan/Documents/LaTeX/Notes on Quiver Gauge Theories/main.tex"
-(/home/louan/Documents/LaTeX/Notes on Quiver Gauge Theories/main.tex
+**"/home/louan/Documents/LaTeX/Worksheets/Worksheet on Toric Geometry/main.tex"
+(/home/louan/Documents/LaTeX/Worksheets/Worksheet on Toric Geometry/main.tex
 LaTeX2e <2021-06-01>
-L3 programming layer <2021-06-01> (/home/louan/.miktex/texmfs/install/tex/latex/base/article.cls
+L3 programming layer <2021-06-01> (worksheetclass.cls
+
+LaTeX Warning: You have requested document class `worksheetclass',
+               but the document class provides `worksheets'.
+
+Document Class: worksheets 2022/04/27 Worksheet LaTeX class
+(/home/louan/.miktex/texmfs/install/tex/latex/base/article.cls
 Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
 (/home/louan/.miktex/texmfs/install/tex/latex/base/size10.clo
 File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
@@ -19,9 +25,7 @@ File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
-) (/home/louan/.miktex/texmfs/install/tex/latex/import/import.sty
-Package: import 2020/04/01  v 6.2
-) (Packages/custom_packages.tex (/home/louan/.miktex/texmfs/install/tex/generic/babel/babel.sty
+) (/home/louan/.miktex/texmfs/install/tex/generic/babel/babel.sty
 Package: babel 2021/06/02 3.60 The Babel package
  (/home/louan/.miktex/texmfs/install/tex/generic/babel/babel.def
 File: babel.def 2021/06/02 3.60 Babel common definitions
@@ -1010,125 +1014,26 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 Package: footnote 1997/01/28 1.13 Save footnotes around boxes
 \fn@notes=\box78
 \fn@width=\dimen307
-) (/home/louan/.miktex/texmfs/install/tex/latex/imakeidx/imakeidx.sty
-Package: imakeidx 2016/10/15 v1.3e Package for typesetting indices in a synchronous mode
- (/home/louan/.miktex/texmfs/install/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
- (/home/louan/.miktex/texmfs/install/tex/generic/xkeyval/xkeyval.tex (/home/louan/.miktex/texmfs/install/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks59
-\XKV@tempa@toks=\toks60
-)
-\XKV@depth=\count454
-File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-)) (/home/louan/.miktex/texmfs/install/tex/generic/iftex/ifxetex.sty
-Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
-) (/home/louan/.miktex/texmfs/install/tex/generic/iftex/ifluatex.sty
-Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
-) (/home/louan/.miktex/texmfs/install/tex/latex/tools/multicol.sty
-Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
-\c@tracingmulticols=\count455
-\mult@box=\box79
-\multicol@leftmargin=\dimen308
-\c@unbalance=\count456
-\c@collectmore=\count457
-\doublecol@number=\count458
-\multicoltolerance=\count459
-\multicolpretolerance=\count460
-\full@width=\dimen309
-\page@free=\dimen310
-\premulticols=\dimen311
-\postmulticols=\dimen312
-\multicolsep=\skip167
-\multicolbaselineskip=\skip168
-\partial@page=\box80
-\last@line=\box81
-\maxbalancingoverflow=\dimen313
-\mult@rightbox=\box82
-\mult@grightbox=\box83
-\mult@gfirstbox=\box84
-\mult@firstbox=\box85
-\@tempa=\box86
-\@tempa=\box87
-\@tempa=\box88
-\@tempa=\box89
-\@tempa=\box90
-\@tempa=\box91
-\@tempa=\box92
-\@tempa=\box93
-\@tempa=\box94
-\@tempa=\box95
-\@tempa=\box96
-\@tempa=\box97
-\@tempa=\box98
-\@tempa=\box99
-\@tempa=\box100
-\@tempa=\box101
-\@tempa=\box102
-\@tempa=\box103
-\@tempa=\box104
-\@tempa=\box105
-\@tempa=\box106
-\@tempa=\box107
-\@tempa=\box108
-\@tempa=\box109
-\@tempa=\box110
-\@tempa=\box111
-\@tempa=\box112
-\@tempa=\box113
-\@tempa=\box114
-\@tempa=\box115
-\@tempa=\box116
-\@tempa=\box117
-\@tempa=\box118
-\@tempa=\box119
-\@tempa=\box120
-\@tempa=\box121
-\@tempa=\box122
-\c@minrows=\count461
-\c@columnbadness=\count462
-\c@finalcolumnbadness=\count463
-\last@try=\dimen314
-\multicolovershoot=\dimen315
-\multicolundershoot=\dimen316
-\mult@nat@firstbox=\box123
-\colbreak@box=\box124
-\mc@col@check@num=\count464
-)) (/home/louan/.miktex/texmfs/install/tex/latex/csquotes/csquotes.sty
-Package: csquotes 2021-02-22 v5.2l context-sensitive quotations (JAW)
-\csq@reset=\count465
-\csq@gtype=\count466
-\csq@glevel=\count467
-\csq@qlevel=\count468
-\csq@maxlvl=\count469
-\csq@tshold=\count470
-\csq@ltx@everypar=\toks61
- (/home/louan/.miktex/texmfs/install/tex/latex/csquotes/csquotes.def
-File: csquotes.def 2021-02-22 v5.2l csquotes generic definitions (JAW)
-)
-Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
-Package csquotes Info: ... configuration file loaded successfully.
- (/home/louan/.miktex/texmfs/install/tex/latex/csquotes/csquotes.cfg
-File: csquotes.cfg 
-)) (/home/louan/.miktex/texmfs/install/tex/latex/multirow/multirow.sty
+) (/home/louan/.miktex/texmfs/install/tex/latex/multirow/multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
-\multirow@colwidth=\skip169
-\multirow@cntb=\count471
-\multirow@dima=\skip170
-\bigstrutjot=\dimen317
+\multirow@colwidth=\skip167
+\multirow@cntb=\count454
+\multirow@dima=\skip168
+\bigstrutjot=\dimen308
 ) (/home/louan/.miktex/texmfs/install/tex/latex/esvect/esvect.sty
 Package: esvect 
 \symesvector=\mathgroup12
 ) (/home/louan/.miktex/texmfs/install/tex/latex/ulem/ulem.sty
-\UL@box=\box125
-\UL@hyphenbox=\box126
-\UL@skip=\skip171
-\UL@hook=\toks62
-\UL@height=\dimen318
-\UL@pe=\count472
-\UL@pixel=\dimen319
-\ULC@box=\box127
+\UL@box=\box79
+\UL@hyphenbox=\box80
+\UL@skip=\skip169
+\UL@hook=\toks59
+\UL@height=\dimen309
+\UL@pe=\count455
+\UL@pixel=\dimen310
+\ULC@box=\box81
 Package: ulem 2019/11/18
-\ULdepth=\dimen320
+\ULdepth=\dimen311
 ) (/home/louan/.miktex/texmfs/install/tex/latex/tocbibind/tocbibind.sty
 Package: tocbibind 2010/10/13 v1.5k extra ToC listings
 Package tocbibind Info: The document has section divisions on input line 50.
@@ -1138,24 +1043,24 @@ Package tocbibind Note: Using section or other style headings.
 
 ) (/home/louan/.miktex/texmfs/install/tex/latex/appendix/appendix.sty
 Package: appendix 2020/02/08 v1.2c extra appendix facilities
-\c@@pps=\count473
-\c@@ppsavesec=\count474
-\c@@ppsaveapp=\count475
+\c@@pps=\count456
+\c@@ppsavesec=\count457
+\c@@ppsaveapp=\count458
 ) (/home/louan/.miktex/texmfs/install/tex/latex/caption/caption.sty
 Package: caption 2020/10/26 v3.5g Customizing captions (AR)
  (/home/louan/.miktex/texmfs/install/tex/latex/caption/caption3.sty
 Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
-\captionmargin=\dimen321
-\captionmargin@=\dimen322
-\captionwidth=\dimen323
-\caption@tempdima=\dimen324
-\caption@indent=\dimen325
-\caption@parindent=\dimen326
-\caption@hangindent=\dimen327
+\captionmargin=\dimen312
+\captionmargin@=\dimen313
+\captionwidth=\dimen314
+\caption@tempdima=\dimen315
+\caption@indent=\dimen316
+\caption@parindent=\dimen317
+\caption@hangindent=\dimen318
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count476
-\c@continuedfloat=\count477
+\c@caption@flags=\count459
+\c@continuedfloat=\count460
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 ) (/home/louan/.miktex/texmfs/install/tex/latex/l3packages/xfrac/xfrac.sty (/home/louan/.miktex/texmfs/install/tex/latex/l3packages/l3keys2e/l3keys2e.sty
@@ -1164,19 +1069,19 @@ Package: l3keys2e 2021-06-01 LaTeX2e option processing using LaTeX3 keys
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 ) (/home/louan/.miktex/texmfs/install/tex/latex/l3packages/xtemplate/xtemplate.sty
 Package: xtemplate 2021-06-01 L3 Experimental prototype document functions
-\l__xtemplate_tmp_dim=\dimen328
-\l__xtemplate_tmp_int=\count478
+\l__xtemplate_tmp_dim=\dimen319
+\l__xtemplate_tmp_int=\count461
 \l__xtemplate_tmp_muskip=\muskip22
-\l__xtemplate_tmp_skip=\skip172
+\l__xtemplate_tmp_skip=\skip170
 )
 Package: xfrac 2021-06-01 L3 Experimental split-level fractions
-\l__xfrac_slash_box=\box128
-\l__xfrac_tmp_box=\box129
-\l__xfrac_denominator_bot_sep_dim=\dimen329
-\l__xfrac_numerator_bot_sep_dim=\dimen330
-\l__xfrac_numerator_top_sep_dim=\dimen331
-\l__xfrac_slash_left_sep_dim=\dimen332
-\l__xfrac_slash_right_sep_dim=\dimen333
+\l__xfrac_slash_box=\box82
+\l__xfrac_tmp_box=\box83
+\l__xfrac_denominator_bot_sep_dim=\dimen320
+\l__xfrac_numerator_bot_sep_dim=\dimen321
+\l__xfrac_numerator_top_sep_dim=\dimen322
+\l__xfrac_slash_left_sep_dim=\dimen323
+\l__xfrac_slash_right_sep_dim=\dimen324
 \l__xfrac_slash_left_muskip=\muskip23
 \l__xfrac_slash_right_muskip=\muskip24
 
@@ -1184,38 +1089,38 @@ Package xtemplate Info: Declaring object type 'xfrac' taking 3 argument(s) on
 (xtemplate)             line 80.
 
 ) (/home/louan/.miktex/texmfs/install/tex/latex/listings/listings.sty
-\lst@mode=\count479
-\lst@gtempboxa=\box130
-\lst@token=\toks63
-\lst@length=\count480
-\lst@currlwidth=\dimen334
-\lst@column=\count481
-\lst@pos=\count482
-\lst@lostspace=\dimen335
-\lst@width=\dimen336
-\lst@newlines=\count483
-\lst@lineno=\count484
-\lst@maxwidth=\dimen337
+\lst@mode=\count462
+\lst@gtempboxa=\box84
+\lst@token=\toks60
+\lst@length=\count463
+\lst@currlwidth=\dimen325
+\lst@column=\count464
+\lst@pos=\count465
+\lst@lostspace=\dimen326
+\lst@width=\dimen327
+\lst@newlines=\count466
+\lst@lineno=\count467
+\lst@maxwidth=\dimen328
  (/home/louan/.miktex/texmfs/install/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
-\c@lstnumber=\count485
-\lst@skipnumbers=\count486
-\lst@framebox=\box131
+\c@lstnumber=\count468
+\lst@skipnumbers=\count469
+\lst@framebox=\box85
 ) (/home/louan/.miktex/texmfs/install/tex/latex/listings/listings.cfg
 File: listings.cfg 2020/03/24 1.8d listings configuration
 ))
 Package: listings 2020/03/24 1.8d (Carsten Heinz)
  (/home/louan/.miktex/texmfs/install/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
-\labelindent=\skip173
-\enit@outerparindent=\dimen338
-\enit@toks=\toks64
-\enit@inbox=\box132
-\enit@count@id=\count487
-\enitdp@description=\count488
+\labelindent=\skip171
+\enit@outerparindent=\dimen329
+\enit@toks=\toks61
+\enit@inbox=\box86
+\enit@count@id=\count470
+\enitdp@description=\count471
 ) (/home/louan/.miktex/texmfs/install/tex/latex/cases/cases.sty
 Package: cases 2020/03/29 ver 3.2
-\numc@numwid=\dimen339
+\numc@numwid=\dimen330
 ) (/home/louan/.miktex/texmfs/install/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 ) (/home/louan/.miktex/texmfs/install/tex/latex/cjk/CJKutf8.sty
@@ -1294,243 +1199,224 @@ Now handling font encoding C62 ...
 ... no UTF-8 mapping file for font encoding C62
 )
 LaTeX Info: Redefining \selectfont on input line 755.
-\CJK@indent=\box133
+\CJK@indent=\box87
 ) (/home/louan/.miktex/texmfs/install/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )) (/home/louan/.miktex/texmfs/install/tex/latex/framed/framed.sty
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
-\OuterFrameSep=\skip174
-\fb@frw=\dimen340
-\fb@frh=\dimen341
-\FrameRule=\dimen342
-\FrameSep=\dimen343
+\OuterFrameSep=\skip172
+\fb@frw=\dimen331
+\fb@frh=\dimen332
+\FrameRule=\dimen333
+\FrameSep=\dimen334
+) (/home/louan/.miktex/texmfs/install/tex/latex/base/makeidx.sty
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
 ) (/home/louan/.miktex/texmfs/install/tex/latex/comment/comment.sty
 \CommentStream=\write5
  Excluding comment 'comment') (/home/louan/.miktex/texmfs/install/tex/latex/simplewick/simplewick.sty
 Package: simplewick 2007/11/23 v1.2a
 
 Package: simplewick v1.2a (2007/11/23)
-\swb@xone=\box134
-\swb@xtwo=\box135
-\swb@xthree=\box136
-\swb@xfour=\box137
-\swdimen@ne=\dimen344
-\swdimentw@=\dimen345
+\swb@xone=\box88
+\swb@xtwo=\box89
+\swb@xthree=\box90
+\swb@xfour=\box91
+\swdimen@ne=\dimen335
+\swdimentw@=\dimen336
 ) (/home/louan/.miktex/texmfs/install/tex/latex/ragged2e/ragged2e.sty
 Package: ragged2e 2021/02/05 v3.0 ragged2e Package
-\CenteringLeftskip=\skip175
-\RaggedLeftLeftskip=\skip176
-\RaggedRightLeftskip=\skip177
-\CenteringRightskip=\skip178
-\RaggedLeftRightskip=\skip179
-\RaggedRightRightskip=\skip180
-\CenteringParfillskip=\skip181
-\RaggedLeftParfillskip=\skip182
-\RaggedRightParfillskip=\skip183
-\JustifyingParfillskip=\skip184
-\CenteringParindent=\skip185
-\RaggedLeftParindent=\skip186
-\RaggedRightParindent=\skip187
-\JustifyingParindent=\skip188
+\CenteringLeftskip=\skip173
+\RaggedLeftLeftskip=\skip174
+\RaggedRightLeftskip=\skip175
+\CenteringRightskip=\skip176
+\RaggedLeftRightskip=\skip177
+\RaggedRightRightskip=\skip178
+\CenteringParfillskip=\skip179
+\RaggedLeftParfillskip=\skip180
+\RaggedRightParfillskip=\skip181
+\JustifyingParfillskip=\skip182
+\CenteringParindent=\skip183
+\RaggedLeftParindent=\skip184
+\RaggedRightParindent=\skip185
+\JustifyingParindent=\skip186
 ) (/home/louan/.miktex/texmfs/install/tex/latex/tocloft/tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has section divisions on input line 51.
-\cftparskip=\skip189
-\cftbeforetoctitleskip=\skip190
-\cftaftertoctitleskip=\skip191
-\cftbeforepartskip=\skip192
-\cftpartnumwidth=\skip193
-\cftpartindent=\skip194
-\cftbeforesecskip=\skip195
-\cftsecindent=\skip196
-\cftsecnumwidth=\skip197
-\cftbeforesubsecskip=\skip198
-\cftsubsecindent=\skip199
-\cftsubsecnumwidth=\skip256
-\cftbeforesubsubsecskip=\skip257
-\cftsubsubsecindent=\skip258
-\cftsubsubsecnumwidth=\skip259
-\cftbeforeparaskip=\skip260
-\cftparaindent=\skip261
-\cftparanumwidth=\skip262
-\cftbeforesubparaskip=\skip263
-\cftsubparaindent=\skip264
-\cftsubparanumwidth=\skip265
-\cftbeforeloftitleskip=\skip266
-\cftafterloftitleskip=\skip267
-\cftbeforefigskip=\skip268
-\cftfigindent=\skip269
-\cftfignumwidth=\skip270
-\c@lofdepth=\count489
-\c@lotdepth=\count490
-\cftbeforelottitleskip=\skip271
-\cftafterlottitleskip=\skip272
-\cftbeforetabskip=\skip273
-\cfttabindent=\skip274
-\cfttabnumwidth=\skip275
+\cftparskip=\skip187
+\cftbeforetoctitleskip=\skip188
+\cftaftertoctitleskip=\skip189
+\cftbeforepartskip=\skip190
+\cftpartnumwidth=\skip191
+\cftpartindent=\skip192
+\cftbeforesecskip=\skip193
+\cftsecindent=\skip194
+\cftsecnumwidth=\skip195
+\cftbeforesubsecskip=\skip196
+\cftsubsecindent=\skip197
+\cftsubsecnumwidth=\skip198
+\cftbeforesubsubsecskip=\skip199
+\cftsubsubsecindent=\skip256
+\cftsubsubsecnumwidth=\skip257
+\cftbeforeparaskip=\skip258
+\cftparaindent=\skip259
+\cftparanumwidth=\skip260
+\cftbeforesubparaskip=\skip261
+\cftsubparaindent=\skip262
+\cftsubparanumwidth=\skip263
+\cftbeforeloftitleskip=\skip264
+\cftafterloftitleskip=\skip265
+\cftbeforefigskip=\skip266
+\cftfigindent=\skip267
+\cftfignumwidth=\skip268
+\c@lofdepth=\count472
+\c@lotdepth=\count473
+\cftbeforelottitleskip=\skip269
+\cftafterlottitleskip=\skip270
+\cftbeforetabskip=\skip271
+\cfttabindent=\skip272
+\cfttabnumwidth=\skip273
 ) (/home/louan/.miktex/texmfs/install/tex/latex/parskip/parskip.sty
 Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
 ) (/home/louan/.miktex/texmfs/install/tex/latex/titling/titling.sty
 Package: titling 2009/09/04 v2.1d maketitle typesetting
-\thanksmarkwidth=\skip276
-\thanksmargin=\skip277
-\droptitle=\skip278
+\thanksmarkwidth=\skip274
+\thanksmargin=\skip275
+\droptitle=\skip276
 ) (/home/louan/.miktex/texmfs/install/tex/latex/caption/subcaption.sty
 Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
-\c@subfigure=\count491
-\c@subtable=\count492
+\c@subfigure=\count474
+\c@subtable=\count475
 ) (/home/louan/.miktex/texmfs/install/tex/latex/todonotes/todonotes.sty
 Package: todonotes 2021/06/04 v1.1.5 Todonotes source and documentation.
 Package: todonotes 2021/06/04
- (/home/louan/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypositioning.code.tex
+ (/home/louan/.miktex/texmfs/install/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+ (/home/louan/.miktex/texmfs/install/tex/generic/xkeyval/xkeyval.tex (/home/louan/.miktex/texmfs/install/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks62
+\XKV@tempa@toks=\toks63
+)
+\XKV@depth=\count476
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (/home/louan/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypositioning.code.tex
 File: tikzlibrarypositioning.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-\c@@todonotes@numberoftodonotes=\count493
+\c@@todonotes@numberoftodonotes=\count477
 )
-\c@theorem=\count494
-\c@lemma=\count495
-\c@prop=\count496
-\c@cor=\count497
-\c@defn=\count498
-\c@remark=\count499
-\c@examp=\count500
-\c@post=\count501
-Now handling font encoding LS1 ...
-... no UTF-8 mapping file for font encoding LS1
-\symsymbols2=\mathgroup13
-) (Packages/custom_macros.tex)
-Package csquotes Info: Checking for multilingual support...
-Package csquotes Info: ... found 'babel' package.
-Package csquotes Info: Adjusting default style.
-Package csquotes Info: Redefining alias 'default' -> 'english'.
- (main.aux (titlepage.aux) (Body/PreliminaryNotions.aux) (Body/OrbifoldSingularities.aux
+\c@theorem=\count478
+\c@lemma=\count479
+\c@prop=\count480
+\c@cor=\count481
+\c@defn=\count482
+\c@remark=\count483
+\c@examp=\count484
+\c@post=\count485
+) (/home/louan/.miktex/texmfs/install/tex/latex/import/import.sty
+Package: import 2020/04/01  v 6.2
+) (custom_macros.tex)
 
-LaTeX Warning: Label `eq:reprrhoZn' multiply defined.
+Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
+(biblatex)                Loading 'csquotes' recommended.
 
-) (Body/ToricSingularities.aux
-
-LaTeX Warning: Label `fig:y equals x' multiply defined.
-
-
-LaTeX Warning: Label `sub@fig:y equals x' multiply defined.
-
-
-LaTeX Warning: Label `fig:three sin x' multiply defined.
-
-
-LaTeX Warning: Label `sub@fig:three sin x' multiply defined.
-
-
-LaTeX Warning: Label `fig:Z5graphs' multiply defined.
-
-) (Body/NonToric.aux) (Body/BeyongBraneProbes.aux) (Body/appendices.aux
-
-LaTeX Warning: Label `eq:invformAmuDn' multiply defined.
-
-))
+\@quotelevel=\count486
+\@quotereset=\count487
+(main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for LS1/stix/m/n on input line 14.
-LaTeX Font Info:    Trying to load font information for LS1+stix on input line 14.
- (/home/louan/.miktex/texmfs/install/tex/latex/stix/ls1stix.fd
-File: ls1stix.fd 2015/04/17 v1.1.2-latex STIX LS1 font definitions
-)
-LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
  (/home/louan/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count502
-\scratchdimen=\dimen346
-\scratchbox=\box138
-\nofMPsegments=\count503
-\nofMParguments=\count504
-\everyMPshowfont=\toks65
-\MPscratchCnt=\count505
-\MPscratchDim=\dimen347
-\MPnumerator=\count506
-\makeMPintoPDFobject=\count507
-\everyMPtoPDFconversion=\toks66
+\scratchcounter=\count488
+\scratchdimen=\dimen337
+\scratchbox=\box92
+\nofMPsegments=\count489
+\nofMParguments=\count490
+\everyMPshowfont=\toks64
+\MPscratchCnt=\count491
+\MPscratchDim=\dimen338
+\MPnumerator=\count492
+\makeMPintoPDFobject=\count493
+\everyMPtoPDFconversion=\toks65
 ) (/home/louan/.miktex/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -1539,7 +1425,7 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable tick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into your preamble.
- on input line 14.
+ on input line 10.
 
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
@@ -1562,9 +1448,9 @@ Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (main.bbl)
-Package biblatex Info: Reference section=0 on input line 14.
-Package biblatex Info: Reference segment=0 on input line 14.
-Package hyperref Info: Link coloring OFF on input line 14.
+Package biblatex Info: Reference section=0 on input line 10.
+Package biblatex Info: Reference segment=0 on input line 10.
+Package hyperref Info: Link coloring OFF on input line 10.
  (/home/louan/.miktex/texmfs/install/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/home/louan/.miktex/texmfs/install/tex/latex/refcount/refcount.sty
@@ -1572,11 +1458,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/home/louan/.miktex/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count508
+\c@section@level=\count494
 )
-LaTeX Info: Redefining \ref on input line 14.
-LaTeX Info: Redefining \pageref on input line 14.
-LaTeX Info: Redefining \nameref on input line 14.
+LaTeX Info: Redefining \ref on input line 10.
+LaTeX Info: Redefining \pageref on input line 10.
+LaTeX Info: Redefining \nameref on input line 10.
  (main.out) (main.out)
 \@outlinefile=\write6
 \openout6 = `main.out'.
@@ -1584,732 +1470,94 @@ LaTeX Info: Redefining \nameref on input line 14.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count509
-\openout2 = `titlepage.aux'.
-
- (titlepage.tex [1
-
-
-{/home/louan/.miktex/texmfs/data/pdftex/config/pdftex.map}]) (main.toc
-LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
+\c@lstlisting=\count495
+LaTeX Font Info:    Trying to load font information for U+msa on input line 12.
  (/home/louan/.miktex/texmfs/install/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 12.
  (/home/louan/.miktex/texmfs/install/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 4.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 12.
  (/home/louan/.miktex/texmfs/install/tex/latex/jknappen/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 4.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 12.
  (/home/louan/.miktex/texmfs/install/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 4.
-LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 4.
-LaTeX Font Info:    Trying to load font information for U+esvect on input line 4.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <7> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 12.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 12.
+LaTeX Font Info:    Trying to load font information for U+esvect on input line 12.
  (/home/louan/.miktex/texmfs/install/tex/latex/esvect/uesvect.fd
 File: uesvect.fd 
-)
-LaTeX Font Info:    Trying to load font information for LS1+stixfrak on input line 4.
- (/home/louan/.miktex/texmfs/install/tex/latex/stix/ls1stixfrak.fd
-File: ls1stixfrak.fd 2015/04/17 v1.1.2-latex STIX fraktur LS1 font definitions
-)
-LaTeX Font Info:    Font shape `U/lasy/b/n' in size <7> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 6.
-LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 6.
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.90 ...damental fields}{24}{subsubsection.10.4.2}
-                                                  % [1
-
-
-] [2])
+) (main.toc)
 \tf@toc=\write7
 \openout7 = `main.toc'.
 
- [3]
-\openout2 = `Body/PreliminaryNotions.aux'.
-
- (Body/PreliminaryNotions.tex
-Package hyperref Info: bookmark level for unknown todo defaults to 0 on input line 15.
- [4
-
-] [5]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 56.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 56.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 56.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 56.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 58.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 58.
-
-LaTeX Font Info:    Trying to load font information for U+euf on input line 82.
-(/home/louan/.miktex/texmfs/install/tex/latex/amsfonts/ueuf.fd
-File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
-) [6]
-<Pictures/N4SYMparameterspace.png, id=715, 823.075pt x 510.90875pt>
-File: Pictures/N4SYMparameterspace.png Graphic file (type png)
-<use Pictures/N4SYMparameterspace.png>
-Package pdftex.def Info: Pictures/N4SYMparameterspace.png  used on input line 100.
-(pdftex.def)             Requested size: 329.22417pt x 204.35988pt.
- [7 <./Pictures/N4SYMparameterspace.png>] [8] [9] [10] [11] [12]
-Package hyperref Info: bookmark level for unknown examp* defaults to 0 on input line 321.
-Package hyperref Info: bookmark level for unknown theorem* defaults to 0 on input line 329.
- [13]
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 343.
- (/home/louan/.miktex/texmfs/install/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-) [14]
-Package hyperref Info: bookmark level for unknown theorem defaults to 0 on input line 383.
- [15] [16] [17] [18]) [19]
-\openout2 = `Body/OrbifoldSingularities.aux'.
-
- (Body/OrbifoldSingularities.tex [20
-
-
-
-] [21]
-LaTeX Font Info:    Trying to load font information for U+bbm on input line 115.
- (/home/louan/.miktex/texmfs/install/tex/latex/bbm/ubbm.fd
-File: ubbm.fd 1999/03/15 V 1.2 Font definition for bbm font - TH
-) [22]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 159.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\Gamma' on input line 159.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 159.
-
-[23] [24] [25]
-Overfull \hbox (1.32845pt too wide) in paragraph at lines 278--280
-\T1/cmr/m/n/10 i.e. in the ad-joint rep-re-sen-ta-tion but with-out the deriva-tive term (as ex-plained above). Now if $\OMS/cmsy/m/n/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 []; V[]\OT1/cmr/m/n/10 )\OMS/cmsy/m/n/10 g[]$
- []
-
-
-LaTeX Warning: Reference `eq:transfAmu' on page 26 undefined on input line 283.
-
-[26]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 334.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 334.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 334.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 334.
-
-[27] [28] [29]
-
-LaTeX Warning: Marginpar on page 30 moved.
-
-[30] [31]
-
-LaTeX Warning: Reference `He:2018gvd' on page 32 undefined on input line 607.
-
-[32]
-Overfull \hbox (31.26196pt too wide) in paragraph at lines 624--624
-[][][]\T1/cmr/m/n/9 Rework/understand 
- []
-
-
-Overfull \hbox (31.26196pt too wide) in paragraph at lines 624--624
-[][][]\T1/cmr/m/n/9 Rework/understand 
- []
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 636.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 636.
-
-[33]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 663.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\times' on input line 663.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 663.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 663.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 663.
-
-[34]
-LaTeX Font Info:    Font shape `U/lasy/b/n' in size <9> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 753.
- [35]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 860.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\times' on input line 860.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 860.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 860.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 860.
-
-[36]
-
-LaTeX Font Warning: Command \tiny invalid in math mode on input line 901.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 953.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\times' on input line 953.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 953.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 953.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 960.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 960.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 962.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 962.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 962.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 962.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 966.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 966.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 966.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 966.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 966.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 966.
-
-[37] [38]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1024.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 1024.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1024.
-
-
-LaTeX Warning: Reference `reprZ5C3' on page 39 undefined on input line 1026.
-
-[39]
-Overfull \hbox (16.63765pt too wide) in paragraph at lines 1154--1155
- [][] 
- []
-
-
-Overfull \hbox (16.63765pt too wide) in paragraph at lines 1168--1169
- [][] 
- []
-
-[40]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1197.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 1197.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1197.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1235.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 1235.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\Delta' on input line 1235.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 1235.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\Delta' on input line 1235.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 1235.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1235.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1237.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 1237.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\Sigma' on input line 1237.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 1237.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\times' on input line 1237.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\Sigma' on input line 1237.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 1237.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\times' on input line 1237.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\Sigma' on input line 1237.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 1237.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\times' on input line 1237.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\Sigma' on input line 1237.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 1237.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\times' on input line 1237.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\Sigma' on input line 1237.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 1237.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\times' on input line 1237.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1237.
-
-<Pictures/SU3finitequivers.png, id=1180, 1204.5pt x 744.7825pt>
-File: Pictures/SU3finitequivers.png Graphic file (type png)
-<use Pictures/SU3finitequivers.png>
-Package pdftex.def Info: Pictures/SU3finitequivers.png  used on input line 1241.
-(pdftex.def)             Requested size: 481.79147pt x 297.90771pt.
-
-Overfull \hbox (28.82358pt too wide) in paragraph at lines 1241--1242
- [][] 
- []
-
-[41]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1245.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 1245.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 1245.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\times' on input line 1245.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 1245.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1245.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1247.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 1247.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\times' on input line 1247.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 1247.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1247.
-
-[42 <./Pictures/SU3finitequivers.png>] [43]
-
-LaTeX Warning: Reference `sec:orbsing' on page 44 undefined on input line 1409.
-
-[44]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1423.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1423.
-
-[45]) [46] [47]
-\openout2 = `Body/ToricSingularities.aux'.
-
- (Body/ToricSingularities.tex [48
-
-
-
-] [49]
-<Pictures/toricdiagZ2orbifold.png, id=1281, 879.285pt x 358.33875pt>
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 22.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 22.
+ [1
+
+{/home/louan/.miktex/texmfs/data/pdftex/config/pdftex.map}]
+Package hyperref Info: bookmark level for unknown examp* defaults to 0 on input line 44.
+ [2]
+<Pictures/toricdiagZ2orbifold.png, id=124, 879.285pt x 358.33875pt>
 File: Pictures/toricdiagZ2orbifold.png Graphic file (type png)
 <use Pictures/toricdiagZ2orbifold.png>
-Package pdftex.def Info: Pictures/toricdiagZ2orbifold.png  used on input line 95.
+Package pdftex.def Info: Pictures/toricdiagZ2orbifold.png  used on input line 102.
 (pdftex.def)             Requested size: 351.70778pt x 143.33296pt.
-Package hyperref Info: bookmark level for unknown prop* defaults to 0 on input line 101.
- [50 <./Pictures/toricdiagZ2orbifold.png>] [51] [52] [53]
-<Pictures/conifoldtoricdiag.png, id=1336, 255.95625pt x 254.9525pt>
+Package hyperref Info: bookmark level for unknown prop* defaults to 0 on input line 108.
+ [3 <./Pictures/toricdiagZ2orbifold.png>]
+Package hyperref Info: bookmark level for unknown todo defaults to 0 on input line 118.
+ [4]
+Package hyperref Info: bookmark level for unknown theorem* defaults to 0 on input line 218.
+ [5] [6] [7]
+<Pictures/conifoldtoricdiag.png, id=200, 255.95625pt x 254.9525pt>
 File: Pictures/conifoldtoricdiag.png Graphic file (type png)
 <use Pictures/conifoldtoricdiag.png>
-Package pdftex.def Info: Pictures/conifoldtoricdiag.png  used on input line 332.
+Package pdftex.def Info: Pictures/conifoldtoricdiag.png  used on input line 339.
 (pdftex.def)             Requested size: 102.38068pt x 101.97919pt.
-<Pictures/conifoldpqweb.png, id=1337, 334.24875pt x 330.23375pt>
+<Pictures/conifoldpqweb.png, id=201, 334.24875pt x 330.23375pt>
 File: Pictures/conifoldpqweb.png Graphic file (type png)
 <use Pictures/conifoldpqweb.png>
-Package pdftex.def Info: Pictures/conifoldpqweb.png  used on input line 339.
+Package pdftex.def Info: Pictures/conifoldpqweb.png  used on input line 346.
 (pdftex.def)             Requested size: 100.27539pt x 99.07088pt.
- [54]
-<Pictures/SPPtoricdiagram.png, id=1349, 194.7275pt x 333.245pt>
+<Pictures/SPPtoricdiagram.png, id=202, 194.7275pt x 333.245pt>
 File: Pictures/SPPtoricdiagram.png Graphic file (type png)
 <use Pictures/SPPtoricdiagram.png>
-Package pdftex.def Info: Pictures/SPPtoricdiagram.png  used on input line 351.
+Package pdftex.def Info: Pictures/SPPtoricdiagram.png  used on input line 358.
 (pdftex.def)             Requested size: 77.8896pt x 133.29562pt.
-<Pictures/algorithm.png, id=1350, 1189.44376pt x 280.04625pt>
-File: Pictures/algorithm.png Graphic file (type png)
-<use Pictures/algorithm.png>
-Package pdftex.def Info: Pictures/algorithm.png  used on input line 370.
-(pdftex.def)             Requested size: 356.83588pt x 84.01451pt.
- [55 <./Pictures/SPPtoricdiagram.png> <./Pictures/conifoldtoricdiag.png> <./Pictures/conifoldpqweb.png>]
-
-LaTeX Warning: Citation 'Kronheimer1990' on page 56 undefined on input line 378.
 
 
-Overfull \hbox (46.87195pt too wide) in paragraph at lines 378--379
-[]\T1/cmr/m/n/10 For the ADE $\OMS/cmsy/m/n/10 N \OT1/cmr/m/n/10 = 2$ \T1/cmr/m/n/10 the-o-ries dis-cussed in sec-tion []15[], by the Kronheimer-Nakajima con-struc-tion [[]],
- []
+LaTeX Warning: Empty bibliography on input line 364.
 
-<Pictures/delPezzo.png, id=1362, 958.58125pt x 895.345pt>
-File: Pictures/delPezzo.png Graphic file (type png)
-<use Pictures/delPezzo.png>
-Package pdftex.def Info: Pictures/delPezzo.png  used on input line 405.
-(pdftex.def)             Requested size: 383.4257pt x 358.13165pt.
-) [56 <./Pictures/algorithm.png>] [57 <./Pictures/delPezzo.png>]
-\openout2 = `Body/NonToric.aux'.
-
- (Body/NonToric.tex) [58
-
-
-
-]
-\openout2 = `Body/BeyongBraneProbes.aux'.
-
- (Body/BeyongBraneProbes.tex) [59
-
-
-
-]
-\openout2 = `Body/appendices.aux'.
-
- (Body/appendices.tex [60
-
-
-
-]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 74.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 74.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 74.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 74.
-
-[61] [62]
-Overfull \hbox (7.02814pt too wide) detected at line 219
-[]
- []
-
-[63]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 293.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 293.
-
-[64]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 307.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 307.
-
-[65] [66] [67]
-<Pictures/youngslattice.png, id=1476, 938.50626pt x 952.55875pt>
-File: Pictures/youngslattice.png Graphic file (type png)
-<use Pictures/youngslattice.png>
-Package pdftex.def Info: Pictures/youngslattice.png  used on input line 441.
-(pdftex.def)             Requested size: 422.32391pt x 428.64748pt.
-<Pictures/suter1.png, id=1478, 455.7025pt x 379.4175pt>
-File: Pictures/suter1.png Graphic file (type png)
-<use Pictures/suter1.png>
-Package pdftex.def Info: Pictures/suter1.png  used on input line 449.
-(pdftex.def)             Requested size: 205.06422pt x 170.73628pt.
-<Pictures/suter2.png, id=1479, 569.12625pt x 262.9825pt>
-File: Pictures/suter2.png Graphic file (type png)
-<use Pictures/suter2.png>
-Package pdftex.def Info: Pictures/suter2.png  used on input line 450.
-(pdftex.def)             Requested size: 256.10445pt x 118.34102pt.
- [68 <./Pictures/youngslattice.png>]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 456.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\times' on input line 456.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 456.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 456.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 456.
-
-[69 <./Pictures/suter1.png> <./Pictures/suter2.png>]
-
-LaTeX Font Warning: Command \tiny invalid in math mode on input line 545.
-
-[70] [71] [72]
-
-LaTeX Warning: Citation 'PhysRevD.55.6382' on page 73 undefined on input line 774.
-
-[73]
-Overfull \hbox (17.36783pt too wide) in paragraph at lines 780--781
-[]\T1/cmr/m/n/10 Forward al-go-rithm for toric sin-gu-lar-i-ties de-vl-op-ments: [[]24[]],[[]25[]],[[]26[]],[[]27[]],[[]28[]], for-mal-iza-tion: [[]29[]],[[]30[]],[[]31[]] 
- []
-
-) [74] (main.tdo)
-\tf@tdo=\write8
-\openout8 = `main.tdo'.
-
- [75
-
-
-] [76]
-Overfull \hbox (6.4912pt too wide) in paragraph at lines 48--48
-[]\T1/cmr/m/n/10 Amihay Hanany and Ed-ward Wit-ten.   Type IIB su-per-strings, BPS monopoles, and three-dimensional
- []
-
-[77] [78] (main.aux (titlepage.aux) (Body/PreliminaryNotions.aux) (Body/OrbifoldSingularities.aux) (Body/ToricSingularities.aux) (Body/NonToric.aux) (Body/BeyongBraneProbes.aux) (Body/appendices.aux))
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
+[8 <./Pictures/SPPtoricdiagram.png> <./Pictures/conifoldtoricdiag.png> <./Pictures/conifoldpqweb.png>] (main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: ADEA18BF71351DB563C2B0810F409157;24943.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
-
+(rerunfilecheck)             Checksum: 5733ABBC235E2B1517815DA8E604D3B3;2874.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 51740 strings out of 478865
- 1109519 string characters out of 2853437
- 2029193 words of memory out of 3000000
- 67919 multiletter control sequences out of 15000+600000
- 450321 words of font info for 172 fonts, out of 8000000 for 9000
+ 49110 strings out of 478865
+ 1059676 string characters out of 2853437
+ 1927653 words of memory out of 3000000
+ 66019 multiletter control sequences out of 15000+600000
+ 426093 words of font info for 94 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,24n,127p,2091b,2174s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{Hfootnote.14} has been referenced but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.13} has been referenced but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.12} has been referenced but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.11} has been referenced but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.10} has been referenced but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.9} has been referenced but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.8} has been referenced but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.7} has been referenced but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.6} has been referenced but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.5} has been referenced but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.4} has been referenced but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist, replaced by a fixed one
-
+ 117i,13n,122p,1262b,1738s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
 
- </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/eccc1000.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx0700.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecti0800.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecti0900.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0500.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx0800.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/public/bbm/dpi600/bbm10.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ectt1000.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm0700.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0800.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0600.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0700.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0900.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx2074.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1000.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecti1000.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1000.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx2488.pk></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbsy10.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cmextra/cmbsy7.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx7.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cmextra/cmex7.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cmextra/cmex8.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cmextra/cmex9.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi12.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi5.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi6.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi8.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi9.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cmextra/cmmib7.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr5.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr6.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr9.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy5.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy6.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy7.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy8.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy9.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/euler/eufm10.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/symbols/msam10.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm10.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm5.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm7.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/rsfs/rsfs10.pfb>
-Output written on main.pdf (79 pages, 1663771 bytes).
+ </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0900.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0800.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0600.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0700.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecti1000.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1000.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1440.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1000.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx2488.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cmextra/cmex7.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi5.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr5.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy5.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy7.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm10.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm7.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/rsfs/rsfs10.pfb>
+Output written on main.pdf (8 pages, 339723 bytes).
 PDF statistics:
- 2753 PDF objects out of 2984 (max. 8388607)
- 673 named destinations out of 1000 (max. 500000)
- 1084 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 590 PDF objects out of 1000 (max. 8388607)
+ 80 named destinations out of 1000 (max. 500000)
+ 161 words of extra memory for PDF output out of 10000 (max. 10000000)
 
