@@ -1,10 +1,10 @@
 # Fdb version 3
-["biber main"] 1656357004 "main.bcf" "main.bbl" "main" 1656357009
-  "main.bcf" 1656357009 105958 9f211889282cc646524175eb4b50ad24 "pdflatex"
+["biber main"] 1656357004 "main.bcf" "main.bbl" "main" 1656357145
+  "main.bcf" 1656357144 105958 9f211889282cc646524175eb4b50ad24 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1656357007 "/home/louan/Documents/LaTeX/Worksheets/Worksheet on Toric Geometry/main.tex" "main.pdf" "main" 1656357009
+["pdflatex"] 1656357143 "/home/louan/Documents/LaTeX/Worksheets/Worksheet on Toric Geometry/main.tex" "main.pdf" "main" 1656357145
   "/home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1000.pk" 1607267403 25420 f2c23a7c3a7fea5cb4ae4a632310af13 ""
   "/home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk" 1607273539 31952 3c609752e07479b75f1400c325a21382 ""
   "/home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk" 1607267403 40136 52321c4f09ab9f3c383093364073b7e8 ""
@@ -360,19 +360,19 @@
   "/home/louan/.miktex/texmfs/install/tex/latex/xkeyval/xkeyval.sty" 1623060370 4902 efb3d66683a2da2a232f71e3a571a899 ""
   "/home/louan/.miktex/texmfs/install/tex/latex/zref/zref-abspage.sty" 1609679784 2275 d29aca6fd67823551cb07584e3681d5d ""
   "/home/louan/.miktex/texmfs/install/tex/latex/zref/zref-base.sty" 1609679784 20688 beaddf14d96104d4bf016523be5395c5 ""
-  "/home/louan/Documents/LaTeX/Worksheets/Worksheet on Toric Geometry/main.tex" 1656357003 27707 5b0d9b436c85a6eb5a272225acce918b ""
+  "/home/louan/Documents/LaTeX/Worksheets/Worksheet on Toric Geometry/main.tex" 1656357111 27704 8adbe272eff191dd653e6557f4109af2 ""
   "Pictures/SPPtoricdiagram.png" 1652545962 7931 00c7e9a0a36d5d38663b628368232dcf ""
   "Pictures/conifoldpqweb.png" 1652544664 5409 dad5ee80cbc3403aaae22764ece853c6 ""
   "Pictures/conifoldtoricdiag.png" 1652544674 5177 346cbed0b0e7c8d8ba410a5340a21da7 ""
   "Pictures/toricdiagZ2orbifold.png" 1652433739 46414 9e553c0be7bd59a36458fe88673f14f6 ""
   "custom_macros.tex" 1653414228 5391 295b234a720913f7cfac2bace9d369d5 ""
-  "main.aux" 1656357009 9606 3f96ff9a29607e9db5cec14530f7ccc4 "pdflatex"
+  "main.aux" 1656357144 9592 82f2bab03eacfc34c7fcd9c5fe12f459 "pdflatex"
   "main.bbl" 1656357005 466 f7f239c736cf01ac6ce7bd829f9b3c7b "biber main"
-  "main.out" 1656357009 2874 5733abbc235e2b1517815da8e604d3b3 "pdflatex"
-  "main.run.xml" 1656357009 2307 fa280d158a7733084a6a66e2106e4193 "pdflatex"
-  "main.tex" 1656357003 27707 5b0d9b436c85a6eb5a272225acce918b ""
-  "main.toc" 1656357009 2065 ab2ead0f31f371c46843abe210ac15c0 "pdflatex"
-  "worksheetclass.cls" 1656356820 6186 ef9969c89a7878e0ebf3b2244653c096 ""
+  "main.out" 1656357144 2860 39f3e5ae7b5520a452c1f4655c734df3 "pdflatex"
+  "main.run.xml" 1656357144 2307 fa280d158a7733084a6a66e2106e4193 "pdflatex"
+  "main.tex" 1656357111 27704 8adbe272eff191dd653e6557f4109af2 ""
+  "main.toc" 1656357144 2055 e6539e73bda4f8cc1e8d559df48986b6 "pdflatex"
+  "worksheetclass.cls" 1656357142 6186 63353e57c260def210be553cd5879d93 ""
   (generated)
   "main.aux"
   "main.bcf"

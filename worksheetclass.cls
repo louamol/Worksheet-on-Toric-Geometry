@@ -119,7 +119,7 @@
         \begin{tabular}{c}
             {\bfseries\Large Worksheet on}\\[0.6em]
             \setlength{\fboxsep}{2em}\fcolorbox{white}{black!10}{\Huge\textbf{\@title}}\\
-            \\[0.6cm]
+            \\[0.5cm]
             Written by {\Large Louan Mol}\\[0.5cm]
             Last update on \today.
         \end{tabular}

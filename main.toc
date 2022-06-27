@@ -7,28 +7,28 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.2}Toric varieties}{2}{subsection.1.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.3}Constructing toric affine varieties}{2}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Constructing toric affine varieties}{2}{section.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.4}Toric variety of a cones}{2}{subsection.1.4}%
+\contentsline {subsection}{\numberline {2.1}Toric variety of a cones}{2}{subsection.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.5}Toric variety of a fan}{4}{subsection.1.5}%
+\contentsline {subsection}{\numberline {2.2}Toric variety of a fan}{4}{subsection.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.6}Fan from a toric variety}{5}{subsection.1.6}%
+\contentsline {subsection}{\numberline {2.3}Fan from a toric variety}{6}{subsection.2.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}More general constructions}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.4}More general constructions}{6}{subsection.2.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1}Relation between fan varieties, cone varities and local coordinates}{6}{subsection.2.1}%
+\contentsline {section}{\numberline {3}Relation between fan varieties, cone varities and local coordinates}{6}{section.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Calabi-Yau toric varities}{6}{section.3}%
+\contentsline {section}{\numberline {4}Calabi-Yau toric varities}{7}{section.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Toric diagrams and p-q webs}{7}{section.4}%
+\contentsline {section}{\numberline {5}Toric diagrams and p-q webs}{7}{section.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5}Singularities}{7}{section.5}%
+\contentsline {section}{\numberline {6}Singularities}{8}{section.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6}Important examples}{8}{section.6}%
+\contentsline {section}{\numberline {7}Important examples}{8}{section.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.1}The conifold}{8}{subsection.6.1}%
+\contentsline {subsection}{\numberline {7.1}The conifold}{8}{subsection.7.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.2}The suspended pinch point}{8}{subsection.6.2}%
+\contentsline {subsection}{\numberline {7.2}The suspended pinch point}{8}{subsection.7.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3}del Pezzo surfaces}{8}{subsection.6.3}%
+\contentsline {subsection}{\numberline {7.3}del Pezzo surfaces}{8}{subsection.7.3}%

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.6.7)  27 JUN 2022 21:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.6.7)  27 JUN 2022 21:12
 entering extended mode
 **"/home/louan/Documents/LaTeX/Worksheets/Worksheet on Toric Geometry/main.tex"
 (/home/louan/Documents/LaTeX/Worksheets/Worksheet on Toric Geometry/main.tex
@@ -1507,28 +1507,28 @@ LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
 {/home/louan/.miktex/texmfs/data/pdftex/config/pdftex.map}]
 Package hyperref Info: bookmark level for unknown examp* defaults to 0 on input line 44.
  [2]
-<Pictures/toricdiagZ2orbifold.png, id=124, 879.285pt x 358.33875pt>
+<Pictures/toricdiagZ2orbifold.png, id=123, 879.285pt x 358.33875pt>
 File: Pictures/toricdiagZ2orbifold.png Graphic file (type png)
 <use Pictures/toricdiagZ2orbifold.png>
 Package pdftex.def Info: Pictures/toricdiagZ2orbifold.png  used on input line 102.
 (pdftex.def)             Requested size: 351.70778pt x 143.33296pt.
-Package hyperref Info: bookmark level for unknown prop* defaults to 0 on input line 108.
  [3 <./Pictures/toricdiagZ2orbifold.png>]
+Package hyperref Info: bookmark level for unknown prop* defaults to 0 on input line 108.
 Package hyperref Info: bookmark level for unknown todo defaults to 0 on input line 118.
- [4]
+ [4] [5]
 Package hyperref Info: bookmark level for unknown theorem* defaults to 0 on input line 218.
- [5] [6] [7]
-<Pictures/conifoldtoricdiag.png, id=200, 255.95625pt x 254.9525pt>
+ [6] [7]
+<Pictures/conifoldtoricdiag.png, id=197, 255.95625pt x 254.9525pt>
 File: Pictures/conifoldtoricdiag.png Graphic file (type png)
 <use Pictures/conifoldtoricdiag.png>
 Package pdftex.def Info: Pictures/conifoldtoricdiag.png  used on input line 339.
 (pdftex.def)             Requested size: 102.38068pt x 101.97919pt.
-<Pictures/conifoldpqweb.png, id=201, 334.24875pt x 330.23375pt>
+<Pictures/conifoldpqweb.png, id=198, 334.24875pt x 330.23375pt>
 File: Pictures/conifoldpqweb.png Graphic file (type png)
 <use Pictures/conifoldpqweb.png>
 Package pdftex.def Info: Pictures/conifoldpqweb.png  used on input line 346.
 (pdftex.def)             Requested size: 100.27539pt x 99.07088pt.
-<Pictures/SPPtoricdiagram.png, id=202, 194.7275pt x 333.245pt>
+<Pictures/SPPtoricdiagram.png, id=199, 194.7275pt x 333.245pt>
 File: Pictures/SPPtoricdiagram.png Graphic file (type png)
 <use Pictures/SPPtoricdiagram.png>
 Package pdftex.def Info: Pictures/SPPtoricdiagram.png  used on input line 358.
@@ -1537,17 +1537,17 @@ Package pdftex.def Info: Pictures/SPPtoricdiagram.png  used on input line 358.
 
 LaTeX Warning: Empty bibliography on input line 364.
 
-[8 <./Pictures/SPPtoricdiagram.png> <./Pictures/conifoldtoricdiag.png> <./Pictures/conifoldpqweb.png>] (main.aux)
+[8 <./Pictures/conifoldtoricdiag.png> <./Pictures/conifoldpqweb.png>] [9 <./Pictures/SPPtoricdiagram.png>] (main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 5733ABBC235E2B1517815DA8E604D3B3;2874.
+(rerunfilecheck)             Checksum: 39F3E5AE7B5520A452C1F4655C734DF3;2860.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 49110 strings out of 478865
- 1059676 string characters out of 2853437
- 1927653 words of memory out of 3000000
+ 49111 strings out of 478865
+ 1059668 string characters out of 2853437
+ 1925649 words of memory out of 3000000
  66019 multiletter control sequences out of 15000+600000
  426093 words of font info for 94 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1555,9 +1555,9 @@ Here is how much of TeX's memory you used:
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
 
  </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0900.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0800.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0600.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0700.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecti1000.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1000.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1440.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1000.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx2488.pk> </home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cmextra/cmex7.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi5.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr5.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy5.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy7.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm10.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm7.pfb></home/louan/.miktex/texmfs/install/fonts/type1/public/rsfs/rsfs10.pfb>
-Output written on main.pdf (8 pages, 339723 bytes).
+Output written on main.pdf (9 pages, 340991 bytes).
 PDF statistics:
- 590 PDF objects out of 1000 (max. 8388607)
- 80 named destinations out of 1000 (max. 500000)
+ 597 PDF objects out of 1000 (max. 8388607)
+ 81 named destinations out of 1000 (max. 500000)
  161 words of extra memory for PDF output out of 10000 (max. 10000000)
 
